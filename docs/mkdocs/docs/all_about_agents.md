@@ -155,11 +155,130 @@ Welcome to our comprehensive resource collection for AI agents. This page curate
 **P045** - Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents
     - [:material-file-document: Paper](https://arxiv.org/abs/2510.06214)
 
-**P046** - In-the-Flow Agentic System Optimization: Effective Planning and Tool Use
+**P046** - AgentFlow: In-the-Flow Agentic System Optimization: Effective Planning and Tool Use
     - [:material-file-document: Paper](https://arxiv.org/abs/2510.05592) · [:material-github: GitHub](https://github.com/lupantech/AgentFlow)
 
 **P047** - ARM: Discovering Agentic Reasoning Modules for Generalizable Multi-Agent Systems
     - [:material-file-document: Paper](https://arxiv.org/abs/2510.05746)
+
+**P048** - Customer-R1: Personalized Simulation of Human Behaviors via RL-based LLM Agent in Online Shopping
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.07230)
+
+**P049** - CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08529)
+
+**P050** - Beyond Turn Limits: Training Deep Search Agents with Dynamic Context Window
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08276)
+
+**P051** - Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-Horizon Tasks
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08002)
+
+**P052** - MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08567)
+
+**P053** - Agent Learning via Early Experience
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08558)
+
+**P054** - CaRT: Teaching LLM Agents to Know When They Know Enough
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08517)
+
+**P055** - AutoMLGen: Navigating Fine-Grained Optimization for Coding Agents
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08511)
+
+**P056** - Opponent Shaping in LLM Agents
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08255)
+
+**P057** - NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08173)
+
+**P058** - VoiceAgentBench: Are Voice Assistants ready for agentic tasks?
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.07978)
+
+**P059** - Self-Improving LLM Agents at Test-Time
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.07841)
+
+**P060** - AgentRL: Scaling Agentic Reinforcement Learning with a Multi-Turn, Multi-Task Framework
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.04206)
+
+**P061** - Adaptive Tool Generation with Models as Tools and Reinforcement Learning
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.06825)
+
+**P062** - TinyScientist: An Interactive, Extensible, and Controllable Framework for Building Research Agents
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.06579)
+
+**P063** - A Survey on Agentic Security: Applications, Threats and Defenses
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.06445)
+
+**P064** - A Multi-Agent Framework for Stateful Inference-Time Search
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.07147)
+
+**P065** - AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.06261)
+
+**P066** - Democratizing AI Scientists using ToolUniverse
+    - [:material-file-document: Paper](https://arxiv.org/abs/2509.23426) · [:material-github: GitHub](https://github.com/mims-harvard/ToolUniverse)
+
+**P067** - Dyna-Mind: Learning to Simulate from Experience for Better AI Agents
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.09577)
+
+**P068** - DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents
+    - [:material-file-document: Paper](https://arxiv.org/abs/2509.21842)
+
+**P069** - DSPO: Stable and Efficient Policy Optimization for Agentic Search and Reasoning
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.09255)
+
+**P070** - MOSAIC: Multi-agent Orchestration for Task-Intelligent Scientific Coding
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08804)
+
+**P071** - MASA: LLM-Driven Multi-Agent Systems for Autoformalization
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.08988)
+
+**P072** - Exploiting Web Search Tools of AI Agents for Data Exfiltration
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.09093)
+
+**P073** - Auto-scaling Continuous Memory for GUI Agent
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.09038)
+
+**P074** - StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bottom-Up Long-Form Story Generation Using Large Language Models
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.11618)
+
+**P075** - WebRouter: Query-specific Router via Variational Information Bottleneck for Cost-sensitive Web Agent
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.11221)
+
+**P076** - LLM×MapReduce-V3: Enabling Interactive In-Depth Survey Generation through a MCP-Driven Hierarchically Modular Agent System
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.10890)
+
+**P077** - BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.10666)
+
+**P078** - AGENTIQL: An Agent-Inspired Multi-Expert Framework for Text-to-SQL Generation
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.10661)
+
+**P079** - FML-bench: A Benchmark for Automatic ML Research Agents Highlighting the Importance of Exploration Breadth
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.10472)
+
+**P080** - MedAgentAudit: Diagnosing and Quantifying Collaborative Failure Modes in Medical Multi-Agent Systems
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.10185)
+
+**P081** - Can Tool-Integrated Reinforcement Learning Generalize Across Diverse Domains?
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.11184)
+
+**P082** - A Survey on Agentic Multimodal Large Language Models
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.10991)
+
+**P083** - R-WoM: Retrieval-augmented World Model For Computer-use Agents
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.11892)
+
+**P084** - HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.12200)
+
+**P085** - Deep Research Brings Deeper Harm
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.11851)
+
+
+A\textsuperscript{2}FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning, https://arxiv.org/abs/2510.12838
+
+DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping, https://arxiv.org/abs/2510.12979
 
 
 
@@ -226,6 +345,7 @@ Welcome to our comprehensive resource collection for AI agents. This page curate
 
 **E010** - GPQA: A Graduate-Level Google-Proof Q&A Benchmark
     - [:material-file-document: Paper](https://arxiv.org/abs/2311.12022) · [:material-github: GitHub](https://github.com/idavidrein/gpqa/)
+    
 **E011** - WebWalkerQA: WebWalker: Benchmarking LLMs in Web Traversal
     - [:material-file-document: Paper](https://arxiv.org/abs/2501.07572) · [:material-github: GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [:material-trophy: Leaderboard](https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard)
 
@@ -277,6 +397,21 @@ Welcome to our comprehensive resource collection for AI agents. This page curate
 **E027** - ACEBench: Who Wins the Match Point in Tool Usage?
     - [:material-file-document: Paper](https://arxiv.org/abs/2501.12851)
 
+**E028** - Haystack Engineering: Context Engineering for Heterogeneous and Agentic Long-Context Evaluation
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.07414) · [:material-github: GitHub](https://github.com/Graph-COM/HaystackCraft)
+
+**E029** - DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.09116)
+
+**E030** - When Agents Trade: Live Multi-Market Trading Benchmark for LLM Agents
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.11695)
+
+**E031** - A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.09721)
+
+**E032** - Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.11977)
+
 
 ---
 
@@ -327,6 +462,17 @@ Welcome to our comprehensive resource collection for AI agents. This page curate
 **M014** - A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory
     - [:material-file-document: Paper](https://www.arxiv.org/abs/2510.02373)
 
+**M015** - ToolMem: Enhancing Multimodal Agents with Learnable Tool Capability Memory
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.06664)
+
+**M016** - CAM: A Constructivist View of Agentic Memory for LLM-Based Reading Comprehension
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.05520)
+
+**M017** - Mem-α: Learning Memory Construction via Reinforcement Learning
+    - [:material-file-document: Paper](https://arxiv.org/abs/2509.25911)
+
+**M018** - Preference-Aware Memory Update for Long-Term LLM Agents
+    - [:material-file-document: Paper](https://arxiv.org/abs/2510.09720)
 
 ---
 
